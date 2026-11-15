@@ -19,10 +19,10 @@ gemini extensions install https://github.com/firststategrowth/stackrates-gemini-
 - "What does Nextcloud AIO need, and what is the cheapest server that fits?"
 - "Which providers have a sale price today?"
 
-A real answer (read 15 Nov 2026):
+A real answer to "OVHcloud's cheapest VPS with 4 GB" (asked 15 Nov 2026):
 
-> AlphaVPS Cheap C4G: 2 vCPU / 4 GB / 40 GB at $4.41/mo, before VAT, read 6 Nov 2026.
-> Source: https://alphavps.com/cheap-vps
+> OVHcloud VPS-1: 2 vCPU / 4 GB / 40 GB at $5.35/mo, $64.20 over 12 months, read 15 Nov 2026.
+> Source: https://us.ovhcloud.com/vps/
 
 ## Tools
 
