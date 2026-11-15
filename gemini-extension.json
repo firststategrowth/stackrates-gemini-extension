@@ -1,10 +1,11 @@
 {
   "name": "stackrates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "VPS and cloud server prices read daily from each provider's own pricing page, each with its read date and source link. Read-only, no key.",
   "mcpServers": {
     "stackrates": {
-      "httpUrl": "https://stackrates.ai/mcp",
+      "type": "http",
+      "url": "https://stackrates.ai/mcp",
       "timeout": 30000
     }
   }
